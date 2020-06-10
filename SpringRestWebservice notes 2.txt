@@ -1,0 +1,32 @@
+
+
+REST API ---reusability--
+
+projects--clients
+
+10 Java project
+
+FOREX retreive
+
+project x
+projec y
+
+
+common functionality--REST API
+
+1 time saved
+2.well tested error free
+
+http://localhost:8080/employees/{id}--retreive one employee
+http://localhost:8080/employees/---retrieve all employees
+http://localhost:8080/getAllAccounts--retrieve all employees
+
+There is a standard for developing REST API
+
+REST API standards to avoid confusion.
+
+
+
+
+
+
